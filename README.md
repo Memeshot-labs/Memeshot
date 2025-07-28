@@ -16,7 +16,7 @@ Dive into the action, flex your instincts, and let the meme battles begin!
 
 ## 📲 Download the App
 
-- [App Store](<[Insert_App_Store_Link](https://apps.apple.com/in/app/memeshot-pvp-memecoin-game/id6747091271)>)
+- [App Store](<https://apps.apple.com/in/app/memeshot-pvp-memecoin-game/id6747091271>)
 - [Download APK](<Insert_APK_Link>)
 
 ## 🔗 Smart Contract
