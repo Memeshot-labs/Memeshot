@@ -1,6 +1,6 @@
 # Memeshot - PvP Memecoin Game
 
-![Cover Image](<Insert_Cover_Image_URL_Here>)
+![Cover Image](https://github.com/user-attachments/assets/7262b179-de45-470e-a141-415f55c38541)
 
 ## 🚀 Description
 
