@@ -17,12 +17,19 @@ Dive into the action, flex your instincts, and let the meme battles begin!
 ## 📲 Download the App
 
 - [App Store](<https://apps.apple.com/in/app/memeshot-pvp-memecoin-game/id6747091271>)
-- [Download APK](<Insert_APK_Link>)
+- [Download APK](<https://drive.google.com/file/d/1N5p1Fj7-9KJmNWhe1yQgfKgSqDP-YciO/view?usp=sharing>)
+
+## 🔗 Codebase
+
+- [Frontend](<https://github.com/Memeshot-labs/frontend>)
+- [Backend](<https://github.com/Memeshot-labs/backend>)
+- Note: Access given to `hackathon@radiant.nexus`
+
 
 ## 🔗 Smart Contract
 
 Check out our smart contract on blockchain:
-- [Smart Contract (Github)](<https://github.com/TheBrandwick/memeshot-solana-program>)
+- [Smart Contract (Github)](<https://github.com/TheBrandwick/memeshot-solana-program>) [Smart Contract Audit is in progress, we will integrate in few weeks]
 - [Devnet](<https://explorer.solana.com/address/CJocerbnDWtire6HNcWdLQ1Ci45KNVcKG3nj3F5Ujrh7?cluster=devnet>)
 
 ## 🌐 Website
